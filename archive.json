@@ -1,0 +1,140 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2021-03-18T00:49:36.034487+00:00",
+  "repo": "mirjak/draft-shmoo-online-meeting",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "MDExOlB1bGxSZXF1ZXN0NTk0MzEzMzgw",
+      "title": "Small # Introduction nits",
+      "url": "https://github.com/mirjak/draft-shmoo-online-meeting/pull/1",
+      "state": "MERGED",
+      "author": "jlivingood",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "And a suggestion on the last sentence, which read a bit oddly. These are as an individual and I do not feel strongly on the suggestions - just trying to help improve the doc. :-)",
+      "createdAt": "2021-03-17T00:14:25Z",
+      "updatedAt": "2021-03-17T09:56:12Z",
+      "baseRepository": "mirjak/draft-shmoo-online-meeting",
+      "baseRefName": "master",
+      "baseRefOid": "09bc590ecf599f01b28ff19af7a0ab28117a31b3",
+      "headRepository": "jlivingood/draft-shmoo-online-meeting",
+      "headRefName": "patch-1",
+      "headRefOid": "491e38c927c8334e744d9e385a8e4c7a008ffb17",
+      "closedAt": "2021-03-17T09:56:12Z",
+      "mergedAt": "2021-03-17T09:56:12Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "9612a5fe31d82736b14e94cd8962b95eb50f25c3"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3NjE0MTExNjE2",
+          "commit": {
+            "abbreviatedOid": "612d3bd"
+          },
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "state": "COMMENTED",
+          "body": "",
+          "createdAt": "2021-03-17T09:55:44Z",
+          "updatedAt": "2021-03-17T09:55:45Z",
+          "comments": [
+            {
+              "originalPosition": 13,
+              "body": "```suggestion\r\nof the meetings and the meeting agenda should be experimented with in the process of establishing future meeting guidelines. \r\n```",
+              "createdAt": "2021-03-17T09:55:44Z",
+              "updatedAt": "2021-03-17T09:55:51Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "MDExOlB1bGxSZXF1ZXN0NTk0MzE3Mjk4",
+      "title": "Some History section nits & suggestions",
+      "url": "https://github.com/mirjak/draft-shmoo-online-meeting/pull/2",
+      "state": "MERGED",
+      "author": "jlivingood",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "As with others - comments as an individual. I also do not feel strongly on these - just trying to help improve readability. :-) \r\n\r\nOne item left open is \"More interim meetings are sometimes also perceived as increased load but may also help to make more continuous \r\nprogress.\" still reads a bit oddly but I suspect will be reworked in the future.",
+      "createdAt": "2021-03-17T00:26:09Z",
+      "updatedAt": "2021-03-17T09:52:48Z",
+      "baseRepository": "mirjak/draft-shmoo-online-meeting",
+      "baseRefName": "master",
+      "baseRefOid": "09bc590ecf599f01b28ff19af7a0ab28117a31b3",
+      "headRepository": "jlivingood/draft-shmoo-online-meeting",
+      "headRefName": "patch-2",
+      "headRefOid": "c9342febb1b3276346eb3ed9324cf46139008003",
+      "closedAt": "2021-03-17T09:52:48Z",
+      "mergedAt": "2021-03-17T09:52:48Z",
+      "mergedBy": "mirjak",
+      "mergeCommit": {
+        "oid": "c8a69d4bf58298e9edcdb117bd9763686c6b87fc"
+      },
+      "comments": [
+        {
+          "author": "mirjak",
+          "authorAssociation": "OWNER",
+          "body": "Thx. Merged.",
+          "createdAt": "2021-03-17T09:52:43Z",
+          "updatedAt": "2021-03-17T09:52:43Z"
+        }
+      ],
+      "reviews": []
+    }
+  ]
+}
